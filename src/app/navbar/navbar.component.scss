@@ -1,3 +1,10 @@
 .clickable{
     cursor: pointer;
 }
+.animated-underline:hover{
+    border-bottom: 2px solid #00ce81;
+    transition: width 2s;
+}
+.bg-black{
+    background-color: #778899
+}
